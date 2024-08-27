@@ -1,4 +1,4 @@
-I'm Srinivas Ravikanth 🥰
+Hi there, I'm Srinivas Ravikanth 🥰
 
 🚀 ABOUT ME:
 
@@ -6,19 +6,19 @@ I'm an IT professional with a strong background in Computer Science, and I love 
 
 SKILLS:
 
-💻 Programming Languages & Web Development
+💻 Programming Languages - 
 Java | JavaScript | Python | HTML | CSS
 
-🌐 Web Services & APIs
+🌐 Web Services & APIs - 
 SOAP | RESTful APIs
 
-🛠️ Databases
+🛠️ Databases - 
 SQL | SQLite | Microsoft SQL Server
 
-🌍 Networking
+🌍 Networking - 
 TCP/IP protocols | HTTP | DNS | SSL/TLS 
 
-🔧 Tools & Technologies
+🔧 Tools - 
 Microsoft Office Suite | MySQL | MailChimp | Google Analytics | Packet Tracer | Wireshark
 
 📂 PROJECTS:
