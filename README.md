@@ -49,6 +49,8 @@ Managed enterprise customer accounts, implemented technical strategies, and exec
 
 ✅ Microsoft Azure Data Fundamentals 
 
+✅ GitHub Foundations
+
 🤝 LET's CONNECT:
 
 📧 srinivas.ravikanth@gmail.com
